@@ -1,6 +1,6 @@
 import requests
 
-URL = "http://127.0.0.1/predict"
+URL = "http://127.0.0.1:5050/predict"
 
 TEST_FILE_PATH = "Testing_files/sheila_2.wav"
 
